@@ -1,2 +1,3 @@
-# JSCalculator
-Basic calculator that performs arithemetic
+# JSCalculator Github Page Link
+https://ayodelerachel.github.io/JSCalculator/
+
